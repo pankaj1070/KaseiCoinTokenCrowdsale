@@ -53,3 +53,18 @@ d. Review the total supply of minted tokens and the amount of wei that the crowd
 e. Ganache Verification
 
 ![Ganache](Images/Ganache.png)
+
+# Optional Excercise : Extend the Crowdsale Contract by Using OpenZeppelin
+
+### Step 1: 
+
+![KasieCointoken](Images/OptionalStep1.png)
+
+### Step 2:
+
+![KasieCointoken](Images/OptionalStep2.png)
+
+### Step 3:
+
+![KasieCointoken](Images/OptionalStep3.png)
+
