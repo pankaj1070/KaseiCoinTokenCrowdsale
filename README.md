@@ -32,7 +32,7 @@ In this assignment a new cryptocurrency named KaseiCoin is created for a fiction
 
 ![KasieCoinDeployer](Images/Step3.png)
 
-### Step 3:  Deploy and Test the Crowdsale on a Local Blockchain
+### Step 4:  Deploy and Test the Crowdsale on a Local Blockchain
 
 a. Deploy the Crowdsale Deployer by using Remix, MetaMask, and Ganache.
 
